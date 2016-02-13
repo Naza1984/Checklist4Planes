@@ -1,0 +1,5 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <CheckBoxPreference android:title="@string/autosaveonback_label" android:key="AutoSaveOnBack"/>
+    <CheckBoxPreference android:key="AutoSaveOnClick" android:title="@string/autosaveonclick_label"/>
+
+</PreferenceScreen>

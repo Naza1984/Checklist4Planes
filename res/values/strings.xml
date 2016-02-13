@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Checklist 4 Planes</string>
+    <string name="action_settings">Preferencias</string><string name="title_activity_settings">Preferencias</string>
+    <string name="text_AVIONES">AVIONES</string>
+    <string name="text_CATEGORIAS">CATEGORIAS</string>
+    <string name="text_CHEQUEOS">CHEQUEOS</string>
+    <string name="btnReset">Resetear</string>
+    <string name="btnSave">Guardar</string>
+    <string name="chklSaved">Checklist Guardado</string>
+    <string name="chklReseted">Checklist Reseteado</string>
+    
+    <string name="hello_world">Hello world!</string>
+    <string name="autosaveonback_label">Auto Guardar al Volver</string>
+    <string name="savedialog_ask_question_1">Desea guardar los cambios?</string>
+    <string name="save_msg">Guardar</string>
+    <string name="discard_msg">Descartar</string>
+    <string name="autosaveonclick_label">Auto Guardar al Chequear</string>
+    
+
+</resources>
